@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Krzysztof Pietruszka",
+    "occupation": "Junior Frontend Developer",
+    "description": "My career goal is to gain experience which enables me to further my knowledge and frontend skills",
+    "image": "profilepic.jpg",
+    "bio": "A self-motivated, creative, and ambitious Front End Developer with 1,5 year of experience in building and maintaining responsive websites in the advertising industry. Proficient in HTML, CSS, jQuery, Javascript and React to build all aspects of the user experience and user interface for client-facing web sites. Passionate about usability and posses great knowledge of Adobe Photoshop.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "pietruszkak@gmail.com",
+    "phone": "517 808 393",
+    "address": {
+      "city": "Warsaw"
+    },
+    "website": "http://www.photoclip.pl",
+    "resumedownload": "https://drive.google.com/file/d/1visHCqvVY1Lc1_GEHA64BtslcAY2Zxdy/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sellerek",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/krzysztof-pietruszka/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/photoclip/?hl=pl",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Sellerek",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can find some of my skills",
+    "education": [
+      {
+        "school": "University of Bialystok",
+        "degree": "Master of Sociology",
+        "graduated": "October 2001 - November 2008",
+        "description": ""
+      },
+      {
+        "school": "CodersLab",
+        "degree": "Frontend Developer: React",
+        "graduated": "November 2018 - June 2019",
+        "description": ""
+      },
+      {
+        "school": "Foto Spokojna",
+        "degree": "Photographer",
+        "graduated": "September 2015 - June 2017",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Cheil GMBH",
+        "title": "Junior Frontend Developer",
+        "years": "November 2019 - Present",
+        "description": [
+
+          "Bringing mock-ups to life using HTML, CSS, JavaScript",
+          "Implementing web design and development principles to build stable software",
+          "Collaborating closely with the team to support projects during all phases of delivery",
+          "Building websites and apps that are responsive and usable",
+          "Monitoring website performance and rectifying front-end-related issues",
+          "Communicating technical issues in an understandable manner to the team and clients",
+          "Identifying innovative ideas and proof of concepts according to project requirements",
+          "Providing guidance and troubleshooting support to clients",
+          "Maintaining an organized workflow using a project management tool (like GitHub)",
+          "Testing to identify bugs and technical issues before and after deploying",
+          "Documenting bug reports, tickets, and any code changes"]
+      },
+      {
+        "company": "Sitel Polska Sp. z o. o.",
+        "title": "Recruitment Specialist",
+        "years": "October 2012 - November 2019",
+        "description": [
+          "Designing internal info center website",
+          "Recruiting on a range of projects",
+          "Interacting on a daily basis with EMEA marketing hub"]
+      },
+      {
+        "company": "ZRV Design",
+        "title": "Trainee Web Designer",
+        "years": "November 2018 - April 2019",
+        "description": ["Worked as part of a multi-disciplinary team, carrying out ad-hoc tasks as requested by the Manager. Had a specific brief to ensure the websites build for customers precisely matched their requirements"]
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Target / Launch",
+        "level": "55%"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I've worked together on some common projects when I was Tech Lead at Cheil. Krzysztof is easy-going person with good way of thinking. Was really great to work with him. He understands web standards well, can adapt his skills to the challenge face to. I recommend him to any companies would have an IT professional in their team.",
+        "user": "Robert Koteles, exTechLead at Cheil, LinkedIn"
+      }
+    ]
+  }
+}
+
