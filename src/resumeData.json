@@ -7,7 +7,7 @@
     "bio": "A self-motivated, creative, and ambitious Front End Developer with 1,5 year of experience in building and maintaining responsive websites in the advertising industry. Proficient in HTML, CSS, jQuery, Javascript and React to build all aspects of the user experience and user interface for client-facing web sites. Passionate about usability and posses great knowledge of Adobe Photoshop.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "pietruszkak@gmail.com",
-    "phone": "517 808 393",
+    "phone": "+48 517 808 393",
     "address": {
       "city": "Warsaw"
     },
@@ -64,7 +64,6 @@
         "title": "Junior Frontend Developer",
         "years": "November 2019 - Present",
         "description": [
-
           "Bringing mock-ups to life using HTML, CSS, JavaScript",
           "Implementing web design and development principles to build stable software",
           "Collaborating closely with the team to support projects during all phases of delivery",
@@ -75,7 +74,8 @@
           "Providing guidance and troubleshooting support to clients",
           "Maintaining an organized workflow using a project management tool (like GitHub)",
           "Testing to identify bugs and technical issues before and after deploying",
-          "Documenting bug reports, tickets, and any code changes"]
+          "Documenting bug reports, tickets, and any code changes"
+        ]
       },
       {
         "company": "Sitel Polska Sp. z o. o.",
@@ -84,13 +84,16 @@
         "description": [
           "Designing internal info center website",
           "Recruiting on a range of projects",
-          "Interacting on a daily basis with EMEA marketing hub"]
+          "Interacting on a daily basis with EMEA marketing hub"
+        ]
       },
       {
         "company": "ZRV Design",
         "title": "Trainee Web Designer",
         "years": "November 2018 - April 2019",
-        "description": ["Worked as part of a multi-disciplinary team, carrying out ad-hoc tasks as requested by the Manager. Had a specific brief to ensure the websites build for customers precisely matched their requirements"]
+        "description": [
+          "Worked as part of a multi-disciplinary team, carrying out ad-hoc tasks as requested by the Manager. Had a specific brief to ensure the websites build for customers precisely matched their requirements"
+        ]
       }
     ],
     "skills": [
@@ -124,6 +127,34 @@
       }
     ]
   },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Mobile Calculator",
+        "category": "Mobile Calculator",
+        "image": "calc_mobile.png",
+        "url": "https://github.com/Sellerek/calculator"
+      },
+      {
+        "title": "Etherium landing page",
+        "category": "Landing Page template",
+        "image": "eth_r.png",
+        "url": "https://github.com/Sellerek/eth_landing_page"
+      },
+      {
+        "title": "Resume",
+        "category": "A React based resume website",
+        "image": "resume.png",
+        "url": "https://github.com/Sellerek/resume"
+      },
+      {
+        "title": "Cloudbudget landing page",
+        "category": "Landing Page template",
+        "image": "cloudbudget.png",
+        "url": "https://github.com/Sellerek/cloudbudget"
+      }
+    ]
+  },
   "testimonials": {
     "testimonials": [
       {
@@ -133,4 +164,3 @@
     ]
   }
 }
-

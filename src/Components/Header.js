@@ -1,7 +1,6 @@
 import React from "react";
 
 const Header = ({ data }) => {
-
   const networks = data.social.map(network => {
     return (
       <li key={network.name}>
@@ -12,37 +11,41 @@ const Header = ({ data }) => {
     );
   });
 
-
   return (
     <header id="home">
       <nav id="nav-wrap">
         <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
           Show navigation
-          </a>
+        </a>
         <a className="mobile-btn" href="#home" title="Hide navigation">
           Hide navigation
-          </a>
+        </a>
 
         <ul id="nav" className="nav">
           <li className="current">
             <a className="smoothscroll" href="#home">
               Home
-              </a>
+            </a>
           </li>
           <li>
             <a className="smoothscroll" href="#about">
               About
-              </a>
+            </a>
           </li>
           <li>
             <a className="smoothscroll" href="#resume">
               Resume
-              </a>
+            </a>
+          </li>
+          <li>
+            <a className="smoothscroll" href="#portfolio">
+              Portfolio
+            </a>
           </li>
           <li>
             <a className="smoothscroll" href="#testimonials">
               Testimonials
-              </a>
+            </a>
           </li>
         </ul>
       </nav>
@@ -51,9 +54,10 @@ const Header = ({ data }) => {
         <div className="banner-text">
           <h1 className="responsive-headline">Hi! I'm {data.name}.</h1>
           <h3>
-            I'm a {data.address.city} based <span>{data.occupation}</span>. <br />
+            I'm a {data.address.city} based <span>{data.occupation}</span>.{" "}
+            <br />
             {data.description}.
-            </h3>
+          </h3>
           <hr />
           <ul className="social">{networks}</ul>
         </div>
@@ -66,7 +70,6 @@ const Header = ({ data }) => {
       </p>
     </header>
   );
-}
-
+};
 
 export default Header;
